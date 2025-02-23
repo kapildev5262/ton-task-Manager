@@ -1,0 +1,3 @@
+Sent transaction
+Contract deployed at address EQBdZkyCZmLfLK1kaHNbfH1HAZ7U_AahXpt2nXuJDvkMr3jR
+You can view it at https://testnet.tonscan.org/address/EQBdZkyCZmLfLK1kaHNbfH1HAZ7U_AahXpt2nXuJDvkMr3jR
